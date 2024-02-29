@@ -1,0 +1,761 @@
+@media (min-width: 1800px) and (max-width: 2000px) {
+
+}
+@media (min-width: 1300px) and (max-width: 1500px) {
+}
+@media (min-width: 200px) and (max-width: 1199px) {
+}
+
+/* ===================================================== */
+/* =============   TABLET LANDSCAPE VIEW CSS =========== */
+/* ===================================================== */	
+@media (min-width: 991px) and (max-width: 1024px){
+body{
+font-size: 17px;
+}
+       .carousel-control-prev {
+    left: -80px;
+}
+.carousel-control-next {
+    right: -87px;
+}
+    .form-submit1{
+        font-size: 21px;
+    }
+.navbar-expand-lg .navbar-nav .nav-link{
+font-size: 13px;
+}
+h1 {
+font-size: 100px;
+    line-height: 110px;
+}
+.whtbox {
+padding: 30px 20px;
+height: 400px;
+}
+    .form-submit2{
+        font-size: 19px;
+    }
+    .testbox {
+    padding: 50px 40px;
+}
+    .padbot120 {
+    padding-bottom: 100px;
+}
+.testimonialbox {
+    padding: 35px 6px;
+}
+    .paddingleft {
+    padding-left: 45px;
+    padding-top: 36px;
+    padding-bottom: 32px;
+}
+.font15 {
+font-size: 13px;
+}
+.tab-btn {
+padding: 8px 35px;
+}
+    
+.form-submit{
+font-size: 19px;
+}
+       .form-submit2{
+font-size: 19px;
+}
+    .form-submit3{
+font-size: 19px;
+}
+       .w100xs{
+width: 100%;
+}
+      .w100ip{
+width: 100%;
+}
+.dblockipadp{
+    display: block!important;
+}
+.dnoneipadp{
+    display: none!important;
+}
+.footerbg p {
+    font-size: 13px;
+}
+#elevate {
+  padding-bottom: 0;
+} 
+
+}
+/* ===================================================== */
+/* =============   TABLET POTRAIT VIEW CSS ============= */
+/* ===================================================== */	
+@media (min-width: 768px) and (max-width: 1023px){
+h1 {
+font-size: 67px;
+    line-height: 76px;
+}
+h3 {
+font-size: 50px;
+        line-height: 65px;
+}
+.font15 {
+font-size: 14px;
+line-height: 23px;
+}
+    .carousel-control-prev {
+    left: -70px;
+}
+.carousel-control-next {
+    right: -69px;
+}
+    .mrtopm55 {
+    margin-top: -22px;
+}
+    .storybox {
+    padding: 30px;
+}
+    .header_style_01 .navbar-brand img {
+    width: 85%;
+    padding-top: 6px;
+}
+.padtop63ipad {
+padding-top: 63px!important;
+}
+.font25 {
+font-size: 17px;
+}
+.mrleftipad50 {
+    margin-left: 50px;
+}
+.font18 {
+font-size: 15px;
+}
+.padleft10 {
+padding-left: 0;
+}
+    .padtop130 {
+    padding-top: 50px;
+}
+    .padtop70 {
+    padding-top: 50px;
+}
+    .padleft15ipad {
+padding-left: 15px!important;
+}
+    .mrtopm5 {
+    margin-left: 0;
+}
+    .padbot120 {
+    padding-bottom: 50px;
+}
+    .padbot140 {
+    padding-bottom: 50px;
+}
+    .padtop80 {
+    padding-top: 50px;
+}
+    .testbox {
+    padding: 50px 40px;
+}
+    .padtopxs50{
+padding-top: 50px!important;
+}
+    .padall30 {
+    padding: 30px 4px;
+}
+.tab-btn {
+padding: 2px 15px;
+font-size: 16px;
+}
+.header_style_01 {
+position: absolute;
+top: 0px;
+width: 100%;
+z-index: 3;
+height: 85px;
+padding: 0px 0px;
+    background: #ffffff;
+box-shadow: 0 0 8px 0 rgba(0,0,0,.12);
+}
+.navbar-collapse{
+background: #dfd5e3;
+        margin-left: -25px;
+    margin-right: -25px;
+}
+    .header_style_01.fixed-menu .navbar-nav li:last-child a{
+            padding: 8px 10px !important;
+    }
+    .headerimg {
+    margin-top: -43px;
+    margin-left: 10px;
+}
+    .navbar-nav li:last-child a{
+        border: none!important;
+        margin-left: 4px !important;
+    }
+.header_style_01 .header-nav {
+    background: #ffffff;
+}
+    .bgwht{
+        background: #ffffff;
+    }
+.padtop30ipad {
+padding-top: 30px!important;
+}
+.padtop100 {
+padding-top: 50px;
+}
+    .whtspace{
+white-space: normal;
+}
+    .w100xs{
+width: 100%;
+}
+    .litebluebg2 {
+    padding: 0px 10px;
+}
+    .padtop100h {
+    padding-top: 79px;
+}
+    .dblockipad{
+        display: block!important;
+    }
+    .dnoneipad{
+        display: none!important;
+    }
+    .form-submit1{
+            padding: 5px 25px 5px 25px;
+    }
+    .paddingleft {
+   padding: 50px;
+}
+.headerbg {
+background-position: top left;
+}
+.padbot250 {
+padding-bottom: 117px;
+}
+.padbot100 {
+padding-bottom: 50px;
+}
+    .width22{
+       -ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+    }   
+     .width56{
+    -ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+    } 
+    
+ #elevate {
+  padding-bottom: 0;
+}    
+}
+/* ===================================================== */
+/* =================   MOBILE VIEW CSS ================= */
+/* ===================================================== */	
+@media (min-width: 320px) and (max-width: 767px){
+body{
+font-size: 17px;
+line-height: 30px;
+}
+h1 {
+font-size: 54px;
+line-height: 61px;
+}
+h2 {
+font-size: 41px;
+}
+h3 {
+font-size: 45px;
+    line-height: 57px;
+}
+h4 {
+font-size: 44px;
+font-weight: 600;
+}
+h5 {
+font-size: 43px;
+line-height: 50px;
+}
+     h6 {
+    font-size: 23px;
+}
+    .font22 {
+    font-size: 20px;
+}
+    .border-right {
+    border-right: none!important;
+}
+.w100xs{
+width: 100%;
+}
+.whtspace{
+white-space: normal;
+}
+    .carousel-control-next, .carousel-control-prev {
+  display: none;
+}
+.neww54 {
+-ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+}
+.header_style_01 {
+position: absolute;
+top: 0px;
+width: 100%;
+z-index: 3;
+height: 80px;
+padding: 0px 0px;
+box-shadow: 0 0 8px 0 rgba(0,0,0,.12);
+}
+    .left-border {
+    font-size: 20px;
+    line-height: 30px;
+}
+.navbar-collapse{
+background: #dfd5e3;
+margin-top: 10px;
+}
+body.app_version .header_style_01.fixed-menu {
+top: 0px;
+}
+.navbar-toggler{
+margin-right: 25px;
+}
+.header_style_01 .navbar-brand {
+padding: 2px 15px 0 25px;
+    width: 81%;
+}
+.header_style_01 .header-nav {
+padding-left:0;
+padding-right:0;
+}
+.header_style_01 .navbar-brand img {
+width: 90%;
+    padding-top: 10px;
+}
+    .width22{
+       -ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+    }   
+     .width56{
+    -ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+    } 
+.padbot50 {
+padding-bottom: 25px;
+}
+.litebluebg {
+padding: 30px 20px;
+}
+.litebluebg3 {
+padding: 30px 20px;
+}
+.veralign{
+vertical-align: middle;
+}
+.padtop70 {
+padding-top: 35px;
+}
+.padbot100 {
+padding-bottom: 50px;
+}
+.padtopxs30{
+padding-top: 30px!important;
+}
+.padlr15 {
+padding-left: 0px;
+}
+.padtop80 {
+padding-top: 40px;
+}
+.padbot140 {
+padding-bottom: 50px;
+}
+select{
+background: #ffffff;
+}
+.font30title {
+font-size: 22px;
+}
+.padtop100h{
+padding-top: 80px;
+}
+.padbot120 {
+padding-bottom: 50px;
+}
+.navbar-nav {
+padding-top: 15px;
+padding-bottom: 15px;
+}
+    .headerimg {
+    padding-left: 15px;
+        padding-right: 15px;
+    margin-top: 40px;
+}
+.navbar-nav li:last-child a{
+border:none!important;
+        background: none!important;
+        color: #000000!important;
+        margin-left: 10px!important;
+}
+    .lineheight35 {
+    line-height: 33px!important;
+}
+    .font21n {
+    font-size: 19px;
+    margin-left: 0;
+}
+  .mrleftm15 {
+    margin-left: 0;
+          position: relative;
+    top: 25px;
+} 
+   .w34xs{
+    width: 34%;
+}
+    #video1, #video2, #video3{
+        max-width: 100%!important;
+    }
+.padtopxs50{
+padding-top: 50px!important;
+}
+    .padbotxs30{
+padding-bottom: 30px!important;
+}
+.padleftxs0{
+padding-left: 0px;
+}
+    .textleft{
+        text-align: left!important;
+    }
+.padrightxs0{
+padding-right: 0px;
+}
+.font14 {
+margin-top: 15px;
+}
+    .padbot60 {
+    padding-bottom: 40px;
+}
+    .mrtopm55 {
+    margin-top: -37px;
+}
+.newtop50 {
+border-top: solid 1px #d8d8d8;
+margin-top: 50px;
+padding-top: 40px!important;
+}
+    .font17 {
+    font-size: 17px;
+    line-height: 33px;
+}
+.mailicon {
+margin-top: -24px;
+    margin-left: 0;
+}
+    .padtop80xs{
+        padding-top: 80px!important;
+    }
+    .carousel-indicators{
+            bottom: -48px;
+    }
+    .carousel-indicators li{
+        background-color: #9d99a2;
+    }
+.padbot50 {
+padding-bottom: 25px;
+}
+.form-submit1{
+font-size: 19px;
+    width: 100%;
+}
+.darkpurplebg {
+padding: 25px 25px;
+}
+.form-select-text2{
+border-radius: 5px;
+}
+.form-submit2{
+    margin-top: 10px;
+border-radius: 5px;
+    width: 100%;
+}
+    .form-select-text3{
+border-radius: 5px;
+}
+.form-submit3{
+       margin-top: 10px;
+border-radius: 5px;
+}
+    .mrleft20xs{
+        margin-left: 20px!important;
+    }
+    .arrowb3 {
+    position: relative;
+    top: -9px;
+    left: 60px;
+}
+.storybox{
+padding: 25px;
+}
+    .padall30 {
+    padding: 30px 15px;
+}
+    .mrtop30xs{
+    margin-top: 30px;
+}
+    .form-submit3 {
+    padding: 13px 14px;
+    font-size: 17px;
+}
+    .font23 {
+    font-size: 19px;
+}
+    .padtop60 {
+    padding-top: 30px;
+}
+    .bgwht{
+        background: #ffffff;
+    }
+    .paddingleft {
+    padding: 25px;
+}
+    .font25 {
+    font-size: 21px;
+    line-height: 35px;
+}
+    .testbg {
+    margin-top: 34px;
+}
+.font14 {
+font-size: 14px;
+line-height: 20px;
+}
+.bordertopxs {
+border-top: solid 1px #d8d8d8;
+        margin-top: 30px;
+}
+.testpad {
+padding: 20px;
+}
+.litebluebg2 {
+padding: 0px 35px;
+}
+.font32 {
+font-size: 21px;
+padding: 10px 22px;
+top: -28px;
+}
+.arrowb2 {
+top: -36px;
+left: 100px;
+}
+.font32n {
+font-size: 27px;
+padding: 10px 22px;
+top: -28px;
+}
+.arrowb2n {
+top: -12px;
+left: 50px;
+}
+.lineheight60 {
+line-height: 35px!important;
+}
+.padtopxs10{
+padding-top: 10px;
+}
+.padtop50 {
+padding-top: 25px;
+}
+.tabpading {
+padding: 50px 0px;
+}
+    .padtop55 {
+    padding-top: 30px;
+}
+    .padtop45 {
+    padding-top: 30px;
+}
+   .bgmheader{
+        background: url(../images/header-mobile.jpg);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+.rowpading {
+padding: 15px 25px;
+}
+.dmtop{
+display: none;
+}
+.dnonexs{
+display: none;
+}
+.padbot40 {
+padding-bottom: 20px;
+}
+.rowpading2 {
+padding: 3px 15px;
+}
+.padlrxs{
+padding-left: 15px;
+padding-right: 15px;
+}
+.padlrxs25{
+padding-left: 25px;
+padding-right: 25px;
+}
+.testbox {
+padding: 40px 30px;
+}
+.test-font20 {
+font-size: 17px;
+line-height: 30px;
+}
+.padtop30 {
+padding-top: 15px;
+}
+.padtop40 {
+padding-top: 20px;
+}
+.padbot250 {
+padding-bottom: 100px;
+}
+    .padbot70 {
+    padding-bottom: 35px;
+}
+.headerbg {
+background-position: bottom!important;
+    background: #f3f3f3 url(../images/header-mobile.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+    .padtop75 {
+    padding-top: 35px;
+}
+.form-submit1new{
+width: 100%;
+}
+.padtop20 {
+padding-top: 10px;
+}
+.padtop100 {
+padding-top: 50px;
+}
+.footertb50 {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.footerbg2 p{
+padding-top: 6px;
+padding-bottom: 6px;
+line-height: 20px;
+}
+.textcxs{
+text-align: center!important;
+}
+.padtbfxs{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.formarea{
+padding: 30px;
+}   
+.form-submit{
+font-size: 17px;
+padding: 8px 4px;
+}
+.padright10f {
+padding-right: 15px;
+}
+.padleft10f {
+padding-left: 15px;
+}
+   .padleft23{
+    padding-left: 0px;
+}
+.video_wrapper {
+  width: 100%;
+    height: 100%;
+}
+    .videoPoster{
+        width: 100%;
+        height: 100%;
+    }
+    .video_wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+    .video_wrapper1 {
+  width: 100%;
+    height: 100%;
+}
+    .videoPoster1{
+        width: 100%;
+        height: 100%;
+    }
+    .video_wrapper1 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}   
+    .video_wrapper2 {
+  width: 100%;
+    height: 100%;
+}
+    .header_style_01.fixed-menu .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 13px 10px 5px 25px;
+}
+    .navbar-expand-lg .navbar-nav .nav-link{
+            padding: 9px 13px 5px 22px;
+    }
+    .testfont17 {
+    font-size: 15px;
+    line-height: 25px;
+    color: #898989;
+}
+    .videoPoster2{
+        width: 100%;
+        height: 100%;
+    }
+    .video_wrapper2 iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}      
+    .header_style_01.fixed-menu .navbar-nav li:last-child a{
+        background: none!important;
+        color: #000000!important;
+        margin-left: 6px!important;
+    } 
+    .fontfwht {
+    text-align: center!important;
+}
+    
+#elevate {
+  padding-bottom: 0;
+} 
+.sleeve-book {
+  margin-top: 15px;
+}
+
+}
+/* ===================================================== */
+/* ===============  iPHONE 5S SMALL VIEW CSS =========== */
+/* ===================================================== */	
+@media (min-width: 320px) and (max-width: 340px) {
+}
