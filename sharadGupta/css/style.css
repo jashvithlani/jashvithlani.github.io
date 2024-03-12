@@ -288,6 +288,8 @@ height: auto;
 .header_style_01 .navbar-brand img {
 width: auto;
     padding-top: 22px;
+    width: 17%;
+    padding-top: 5px;
 }
 .header_style_01 .navbar-default .navbar-nav > li > a {
 border-radius: 0;
@@ -1039,3 +1041,30 @@ transition: all .7s ease-in-out;
 .sociali:hover{
     opacity: 0.7!important;
 }
+
+.keep-img{
+    width: 110%;
+    margin-left: -40px;
+}
+body {
+    /* font-family: sans-serif;
+    margin: 0;
+    padding: 0; */
+  }
+  
+  .challenge {
+    padding: 50px;
+    text-align: center;
+    background-color: #f2f2f2;
+  }
+  
+  .challenge h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .challenge p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }

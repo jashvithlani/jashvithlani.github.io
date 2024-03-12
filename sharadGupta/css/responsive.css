@@ -759,3 +759,6 @@ padding-left: 15px;
 /* ===================================================== */	
 @media (min-width: 320px) and (max-width: 340px) {
 }
+.meet-sg{
+    background-color: rgb(235,236,238);
+}
