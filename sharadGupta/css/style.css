@@ -70,6 +70,7 @@ font-size: 25px;
     line-height: 40px;
 font-weight: 600;
 }
+
 .fontw400{
 font-weight: 400!important;
 }
@@ -1068,3 +1069,330 @@ body {
     line-height: 1.5;
     margin-bottom: 15px;
   }
+  
+  .padtop05{
+    padding-top: 05px;
+    }
+    .padtop10{
+    padding-top: 10px;
+    }
+    .padtop15{
+    padding-top: 15px;
+    }
+    .padtop20{
+    padding-top: 20px;
+    }
+    .padtop30{
+    padding-top: 30px;
+    }
+    .padtop35{
+    padding-top: 35px;
+    }
+    .padtop40{
+    padding-top: 40px;
+    }
+    .padtop45{
+    padding-top: 45px;
+    }
+    .padtop50{
+    padding-top: 50px;
+    }
+    .padtop60{
+    padding-top: 60px;
+    }
+    .padtop70{
+    padding-top: 70px;
+    }
+    .padtop80{
+    padding-top: 80px;
+    }
+    .padtop90{
+    padding-top: 75px;
+    }
+    .padtop100{
+    padding-top: 100px;
+    }
+    .padtop110{
+    padding-top: 110px;
+    }
+    .padtop120{
+    padding-top: 120px;
+    }
+    .padtop150{
+    padding-top: 150px;
+    }
+    .padbot270 {
+        padding-bottom: 271px;
+    }
+    .padtop200{
+    padding-top: 200px;
+    }
+    .padtop280{
+    padding-top: 275px;
+    }
+    .padbot20{
+    padding-bottom: 20px;
+    }
+    .padbot30{
+    padding-bottom: 30px;
+    }
+    .padbot40{
+    padding-bottom: 40px;
+    }
+    .padbot50{
+    padding-bottom: 50px;
+    }
+    .padbot60{
+    padding-bottom: 60px;
+    }
+    .padbot80{
+    padding-bottom: 80px;
+    }
+    .padbot100{
+    padding-bottom: 100px;
+    }
+    .padbot120{
+    padding-bottom: 120px;
+    }
+    .padbot155{
+    padding-bottom: 155px;
+    }
+    .padleft10{
+        padding-left: 10px;
+    }
+    .padleft30{
+        padding-left: 30px;
+    }
+    .padleft50{
+        padding-left: 50px;
+    }
+    .padleft10f{
+        padding-left: 9px;
+    }
+    .padright10f{
+        padding-right: 9px;
+    }
+    .padleft20f{
+        padding-left: 20px;
+    }
+    .padleft120{
+        padding-left: 150px;
+    }
+    .padright20f{
+        padding-right: 20px;
+    }
+    .padright44 {
+        padding-right: 44px;
+    }
+    .padright64 {
+        padding-right: 36px;
+    }
+    .padlr35{
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+    .mrtop3{
+        margin-top: 3px;
+    }
+    .mrtop20{
+        margin-top: 20px;
+    }
+    .mrtopm6 {
+        margin-top: -6px;
+    }
+    .mrtopm11 {
+        margin-top: -18px;
+    }
+    .mrtopm14 {
+        margin-top: -15px;
+    }
+    .mrtopm23{
+        margin-top: -25px;
+    }
+    .mrtopm40 {
+        margin-top: -33px;
+    }
+    .mrtopm45 {
+        margin-top: -45px;
+    }
+    .mrtopm47 {
+        margin-top: -47px;
+    }
+    .mrtopm62 {
+        margin-top: -62px;
+    }
+    .mrtopm100 {
+        margin-top: -100px;
+    }
+    .mrbotm45 {
+        margin-bottom: -45px;
+    }
+    .mrleftm10 {
+        margin-left: -10px;
+    }
+    .mrleft10 {
+        margin-left: 10px;
+    }
+    .mrleft50 {
+        margin-left: 75px;
+    }
+    .mrleftm60 {
+        margin-left: -60px;
+    }
+    .mrleftm30 {
+        margin-left: -30px;
+    }
+    .fontw300{
+        font-weight: 300!important;
+    }
+    .fontw400{
+        font-weight: 400!important;
+    }
+    .fontw500{
+        font-weight: 500!important;
+    }
+    .fontw600{
+        font-weight: 600!important;
+    }
+    .fontw700{
+        font-weight: 700!important;
+    }
+    .fontw800{
+        font-weight: 800!important;
+    }
+    
+    .headerbg{
+        background: url(../images/header-bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 800px;
+    }
+    .font21{
+        font-size: 25px;
+        line-height: 43px;
+    }
+    .font14{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .font17{
+        font-size: 17px;
+    }
+    .font20{
+        font-size: 20px;
+    }
+    .font22{
+        font-size: 22px;
+    }
+    .font12{
+        font-size: 12px;
+    }
+    .pera-font21{
+        font-size: 21px;
+    }
+    .font30{
+        font-size: 30px;
+    }
+    .font30s{
+        color: #c9c9c9;
+        font-size: 21px;
+    }
+    .font25{
+        font-size: 25px;
+    }
+    .lineheight40{
+        line-height: 40px;
+    }
+    .sabiframework{
+        background: url(../images/sabi_framwork.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 750px;
+    }
+    h6 {
+        font-size: 40px;
+        line-height: 55px;
+        font-weight: 400;
+    }
+    .lsminus1 {
+        letter-spacing: -1px;
+    }
+    .border-bottom {
+        border-bottom: 2px solid #000000 !important;
+        width: max-content;
+        margin: 0 auto;
+    }
+    .sabiframework {
+        background: url(../images/sabi_framwork.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 750px;
+    }
+    .get-btn {
+        background: #de3c4b;
+        color: #fff;
+        font-size: 24px;
+        border-radius: 14px;
+        margin-left: 10px;
+        margin-top: 11px;
+        font-weight: 700;
+        font-family: 'Barlow', sans-serif;
+        text-transform: uppercase;
+        cursor: pointer;
+        padding: 17px 22px;
+        transition: all 1s;
+        border: none;
+        height: 80px;
+    }
+    .get-btn:hover{
+        background: #17496f;
+    }
+    .blue-btn {
+        background: #061a40;
+        color: #fff;
+        font-size: 25px;
+        line-height: 45px;
+        border-radius: 20px;
+        font-weight: 500;
+        font-family: 'Barlow', sans-serif;
+        padding: 7px 15px;
+        transition: all 1s;
+        border: none;
+        width: 39%;
+        position: absolute;
+        left: 80px;
+        top: -100px;
+    }
+    .row {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+    .bg-sky {
+        background-color: #f0f3f4;
+    }  
+    .bg-skii {
+        background-color: #d6edf5;
+    }    
+    .sabi-box {
+        background: #fff;
+        box-shadow: 0px 0px 20px 0px #ececec;
+        padding: 35px 76px;
+        border-radius: 5px;
+    }
+    .right-greenarrow {
+        position: relative;
+        top: 16px;
+        left: 245px;
+    }
+    p {
+        font-size: 21px;
+        line-height: 35px;
+        color: #fff;
+        font-weight: 300;
+        font-family: 'Heebo', sans-serif;
+        margin-bottom: 0rem;
+    }
