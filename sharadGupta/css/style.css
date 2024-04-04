@@ -195,7 +195,7 @@ margin-top: -57px;
 HEADER
 -------------------------------------------------------------------*/
 .header_style_01{
-position: absolute;
+position: fixed;
 top: 0px;
 width: 100%;
 background-repeat: no-repeat;
