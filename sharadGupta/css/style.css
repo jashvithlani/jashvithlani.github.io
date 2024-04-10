@@ -963,10 +963,10 @@ transition: all 0.5s !important;
 FOOTER
 -------------------------------------------------------------------*/
 .footerbg{
-background: #006880;
+background: rgb(229, 135, 59);
 }
 .footerbg2{
-background: #005366;
+background: rgb(229, 135, 59);
 }
 .footertb50{
 padding-top: 40px;
@@ -977,14 +977,14 @@ color: #e1c3cb;
 }
 .footerbg p{
 font-size: 15px;
-color: #ffffff;
+color: #000000;
     font-weight: bold;
     text-transform: uppercase;
 }
 .footerbg2 p{
     font-weight: 400;
 font-size: 12px;
-color: #20879f;
+color: #000000;
     text-transform: uppercase;
 }
 .newlink a{
@@ -1001,7 +1001,7 @@ padding-top: 15px;
 padding-bottom: 15px;
 }
 .footerbg2 a{
-color: #20879f;
+color: #000000;
 }
 .footerbg2 a:hover{
 color: #ffffff;
