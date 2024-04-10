@@ -1270,7 +1270,7 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
         height: 800px;
-    background-color: rgb(229, 135, 59);
+    background: linear-gradient( rgb(229, 135, 59),rgb(253, 186, 132));
     }
     .font21{
         font-size: 25px;
