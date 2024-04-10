@@ -141,7 +141,7 @@ padding-top: 100px;
 padding-top: 130px;
 }
 .padtop100h{
-padding-top: 127px;
+padding-top: 100px;
 }
 .padbot40{
 padding-bottom: 40px;
@@ -202,11 +202,12 @@ background-repeat: no-repeat;
 z-index: 3;
 background-image: #ffffff;
 height: 100px;
-padding: 4px 0px;
+/* padding: 4px 0px; */
 }
 .header_style_01 .header-nav{
     padding: 0;
-    background-color: #17496f;
+    background-color: rgb(229, 135, 59);
+    height: inherit;
 
 }
 .header-nav .navbar-toggler span {
@@ -430,6 +431,7 @@ background: #f3f3f3;
 background-repeat: no-repeat;
 background-size: cover;
 background-position: top center;
+
 }
 .bgnewf{
     background: #f3f3f3 url(../images/pattern2.jpg);
@@ -1264,11 +1266,11 @@ body {
     }
     
     .headerbg{
-        background: url(../images/header-bg.jpg);
+        /* background: url(../images/home.png); */
         background-repeat: no-repeat;
         background-size: cover;
         height: 800px;
-        background-color: #17496f;
+    background-color: rgb(229, 135, 59);
     }
     .font21{
         font-size: 25px;
@@ -1400,9 +1402,10 @@ body {
         margin-bottom: 0rem;
     }
     .business-framework {
-        background: url(../images/business-framewor.jpg);
+        /* background: url(../images/business-framewor.jpg); */
         background-repeat: no-repeat;
         background-size: cover;
+        background-color: rgb(85, 86, 88);
     }
     h1,
 h2,
@@ -1510,4 +1513,26 @@ h6 {
     display: inline-block;
     transition: all 0.5 !important;
     -webkit-transition: all 0.5 !important;
+}
+
+.special-padding{
+    padding: 35px 60px;
+}
+.width80{
+    width: 80%;
+}
+
+.testimonial-bg {
+    background: linear-gradient( rgb(229, 135, 59),rgb(253, 186, 132));
+}
+.testimonial-box {
+    background: #fff;
+    border-radius: 5px;
+    padding: 27px 34px 40px;
+    height: 100%;
+    /* width: 90%; */
+}
+.red-quoat {
+    position: relative;
+    top: -50px;
 }
