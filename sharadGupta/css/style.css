@@ -1538,3 +1538,52 @@ h6 {
     position: relative;
     top: -50px;
 }
+.discover-btn {
+    position: relative;
+    top: 32px;
+    left: 155px;
+    background: #061a40;
+    color: #fff;
+    font-size: 25px;
+    line-height: 45px;
+    border-radius: 18px;
+    font-weight: 500;
+    font-family: 'Barlow', sans-serif;
+    padding: 7px 22px;
+    transition: all 1s;
+    border: none;
+    text-align: center;
+    /* width: 28%; */
+    display: inline-block;
+}
+.down-arrow2 {
+    position: relative;
+    top: 60px;
+    left: -120px;
+}
+
+.form-btn {
+    background: #de3c4b;
+    color: #ffffff;
+    border: none;
+    transition: all 0.5s;
+    position: relative;
+    font-family: 'Barlow', sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    padding: 22px 20px;
+    width: 100%;
+    font-size: 35px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.schedule-box {
+    background: #fff;
+    padding: 80px 60px 70px;
+    box-shadow: 0px 0px 20px 0px #ddd;
+    border-radius: 5px;
+}
+.colorBlack{
+    color:#000000
+}
