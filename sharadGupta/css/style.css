@@ -265,7 +265,7 @@ margin-top: 4px;
 .navbar-expand-lg .navbar-nav .nav-link{
 padding: 9px 13px 5px 13px;
 margin: 0px 5px;
-font-size: 15px;
+font-size: 18px;
     line-height: 20px;
 font-family: 'Noto Sans JP', sans-serif;
 font-weight: 600;
@@ -407,7 +407,7 @@ top: 13px;
 background: transparent !important;
 border: solid 1px #ffffff!important;
 border-radius: 5px !important;
-padding: 13px 16px !important;
+padding: 16px 19px !important;
 LINE-HEIGHT: 22px;
 margin-left: 22px !important;
 margin-top: -8px!important;
@@ -1307,6 +1307,9 @@ body {
     .font25{
         font-size: 25px;
     }
+    .font28{
+        font-size: 28px;
+    }
     .lineheight40{
         line-height: 40px;
     }
@@ -1586,4 +1589,8 @@ h6 {
 }
 .colorBlack{
     color:#000000
+}
+
+.alignCenter{
+    align-content: center;
 }
