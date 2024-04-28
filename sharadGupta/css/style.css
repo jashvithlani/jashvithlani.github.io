@@ -1382,7 +1382,8 @@ body {
         margin-left: -15px;
     }
     .bg-sky {
-        background-color: #f0f3f4;
+        background-color: #b9b9b9;
+        /* background: url(../images/book-page.jpg); */
     }  
     .bg-skii {
         background-color: #d6edf5;
@@ -1500,6 +1501,9 @@ h6 {
 .padleft50 {
     padding-left: 50px;
 }
+.padleft80 {
+    padding-left: 150px;
+}
 @media (min-width: 768px){
 .col-md-5 {
     -ms-flex: 0 0 41.666667%;
@@ -1593,4 +1597,26 @@ h6 {
 
 .alignCenter{
     align-content: center;
+}
+
+
+.testi{
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bookImg{
+    margin-left: -200px;
+    width: 900px;
+    margin-top: 100px;
+}
+
+.max100{
+    max-width: 80%;
+}
+
+.font80{
+    font-size: 80px;
 }
