@@ -1620,3 +1620,7 @@ h6 {
 .font80{
     font-size: 80px;
 }
+
+.lineheight25{
+    line-height: 20px;
+}
