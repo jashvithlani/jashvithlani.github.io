@@ -1317,7 +1317,7 @@ body {
         background: url(../images/sabi_framwork.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 750px;
+        height: 950px;
     }
     h6 {
         font-size: 40px;
@@ -1394,11 +1394,12 @@ body {
         padding: 35px 76px;
         border-radius: 5px;
     }
-    .right-greenarrow {
-        position: relative;
-        top: 16px;
-        left: 245px;
-    }
+    
+.right-greenarrow {
+    position: absolute;
+    top: -16px;
+    left: 490px;
+}
     p {
         font-size: 21px;
         line-height: 35px;
@@ -1623,4 +1624,71 @@ h6 {
 
 .lineheight25{
     line-height: 20px;
+}
+.cetsFrameworkmob{
+    display: none;
+}
+@media (max-width: 700px){
+    .headerLogo{
+        width: 28% !important
+    }
+    .font24{
+        font-size: 24px;
+    }
+    .font22{
+        font-size: 16px !important
+    }
+    .font25{
+        font-size: 16px !important
+    }
+    .font34{
+        font-size: 28px;
+    }
+.padleft120{
+    padding-left: 20px;
+}
+.padtop120{
+    padding-top: 40px;
+}
+.padtop20{
+    padding-top: 40px !important;
+}
+.line{
+    display: none;
+}
+.border-bottom{
+    max-width: fit-content;
+}
+.sabiframework {
+    background: url(../images/sabi_framwork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+}
+.bookImg {
+    margin-left: -50px;
+    width: 350px;
+    margin-top: 10px;
+}
+.font80 {
+    font-size: 30px;
+}
+.padleft80 {
+    padding-left: 50px;
+}
+.normallineheight{
+    line-height: normal;
+}
+.cetsFramework{
+    display: none;
+}
+.cetsFrameworkmob{
+    display: inline;
+}
+
+.right-greenarrow {
+    position: absolute;
+    top: -16px;
+    left: 360px;
+}
 }
