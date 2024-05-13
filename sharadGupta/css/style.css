@@ -1708,4 +1708,14 @@ h6 {
 .sabi-box{
     padding: 35px 20px;
 }
+.font18
+{
+    font-size: 18px;
+}
+.font13{
+    font-size: 13px;
+}
+.padbot30{
+    padding-bottom: 15px;
+}
 }
