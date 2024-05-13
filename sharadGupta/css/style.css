@@ -1691,4 +1691,21 @@ h6 {
     top: -16px;
     left: 360px;
 }
+.font15{
+    font-size: 15px;
+}
+.right-greenarrow{
+    
+        position: absolute;
+        top: -16px;
+        left: 295px;
+    
+}
+.font20{
+    font-size: 15px;
+    line-height: 20px;
+}
+.sabi-box{
+    padding: 35px 20px;
+}
 }
