@@ -57,17 +57,17 @@
       <header class="header header_style_01 ">
          <nav class="navbar header-nav navbar-expand-lg">
             <div class="container pl-md-0 pr-md-0 ">
-               <a class="navbar-brand headerLogo" href="index.html"><img src="images/logo.png" alt="image"></a>
+               <a class="navbar-brand headerLogo " href="index.html"><img src="images/logo.png" class="logo-mob" alt="image"></a>
                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarApp" aria-controls="navbarApp" aria-expanded="false" aria-label="Toggle navigation">
-               <span></span>
-               <span></span>
-               <span></span>
-               </button>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  </button>
                <div class="collapse navbar-collapse justify-content-end" id="navbarApp">
                   <ul class="navbar-nav">
-                     <li><a class="nav-link" href="#">home</a></li>
-                     <li><a class="nav-link" href="#aboutsharad">about</a></li>
+                     <li><a class="nav-link" href="#home">home</a></li>
                      <li><a class="nav-link" href="#freebook">ebook</a></li>
+                     <li><a class="nav-link" href="#aboutsharad">about</a></li>
                      <li><a class="nav-link" href="#footer">Contact</a></li>
                      <!-- <li><a class="nav-link" href="#121"><img src="images/green-call-icon.jpg" class="mrtopm6">&nbsp;&nbsp;schedule one-on-one discovery call</a></li> -->
                   </ul>
@@ -889,6 +889,59 @@ Let the only expert in the room help you at every step.</p>
          });    
          });   
       </script>
-     
+     <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-176873554-1');
+    </script>
+    
+    
+          <script>
+             $('.fancybox').fancybox();
+          </script>
+          <script>
+             $(document).ready(function(){
+             $("#contact-submit").click(function(e){
+             var err="";
+             
+             //alert("hello");
+             
+             var email = document.getElementById("email").value;
+             var email_a = email.indexOf("@");
+             var email_d = email.indexOf(".");
+             var emailpart = email.split("@");
+             var double_email = email.indexOf("@@");			
+             if($("#email").val() == "" || $("#email").val() == null){
+             $("#email-error").html("<i class='fa fa-exclamation-triangle'></i> Please enter email address");
+             err="error";
+             }
+             else if(email_a == -1 || email_d == -1 && double_email != "@@")
+             {
+             $("#email-error").html(" <i class='fa fa-exclamation-triangle'></i> Please enter right email");
+             err="error";
+             
+             }
+             else{
+             $("#email-error").html("");
+             
+             }
+             if($("#name").val() == "" || $("#name").val() == null){
+             $("#name-error").html("<i class='fa fa-exclamation-triangle'></i> Please enter name");
+             err="error";
+             }else{
+             $("#name-error").html("");
+             }
+               
+             if(err != ""){
+             return false;
+             }
+             });	 
+             });	
+             
+             
+             
+          </script>
    </body>
 </html>
