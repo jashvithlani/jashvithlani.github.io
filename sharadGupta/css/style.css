@@ -1718,4 +1718,26 @@ h6 {
 .padbot30{
     padding-bottom: 15px;
 }
+.border-bottomblue {
+    border-bottom: 2px solid #061a40 !important;
+    width: auto;
+    margin: 0 auto;
+}
+.discover-btn {
+    position: relative;
+    top: 32px;
+    left: 135px;
+    font-size: 17px;
+
+}
+
+    .footerLogo
+    {
+        width:300px
+    }
+    .down-arrow2 {
+        position: relative;
+        top: 60px;
+        left: 0px;
+    }
 }
